@@ -1,5 +1,4 @@
-![GIF](Readme_assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
+![GIF][gif-reference]
 <div align="Center">
   
 <a href="https://leetcode.com/u/Kumari_anjali_0806/" target="_blank">
@@ -13,9 +12,11 @@
   <a href="https://www.instagram.com/whoiss_anjali/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" 
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
 </div>
 
-![Photo](Readme_assets/Personal_Informationn.png)
+![Photo][photo-reference]
 
-<br>
+<!-- Hidden Image References -->
+[gif-reference]: Readme_assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif
+[photo-reference]: Readme_assets/Personal_Informationn.png
